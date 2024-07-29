@@ -30,7 +30,7 @@ let addressesapi = [];
 let addressescsv = [];
 let DLS = 8;
 
-let FileName = 'epeius';
+let FileName = 'epeius-trojan';
 let BotToken ='';
 let ChatID =''; 
 let proxyhosts = [];//本地代理域名池
